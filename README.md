@@ -2,7 +2,7 @@
 
 Projeto final do **AI Talent Academy**, Grupo 1.
 
-**Autores:** Breno Luna ([@BrenoLuna861](https://github.com/BrenoLuna861)) · Paula Carlesso
+**Autores:** Breno Luna ([@BrenoLuna861](https://github.com/BrenoLuna861)) · Paula Carlesso ([@Paula-Carlesso](https://github.com/Paula-Carlesso))
 
 Análise de série temporal e previsão do preço médio de 60 itens do dia a dia nos EUA
 (ovos, leite, carne, café, gasolina, energia elétrica...) com 3 meses de antecedência,
