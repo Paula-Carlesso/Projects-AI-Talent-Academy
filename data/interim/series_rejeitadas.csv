@@ -1,0 +1,15 @@
+serie_id,item,inicio,fim,meses_publicados,motivo_exclusao
+APU0000703212,"Chuck roast, graded and ungraded, excluding USDA Prime and Choice",2015-01-01,2017-12-01,36,descontinuada
+APU0000703512,"Steak, round, graded and ungraded, excluding USDA Prime and Choice",2015-01-01,2026-04-01,67,descontinuada
+APU0000705111,"Frankfurters, all meat or all beef",2015-10-01,2022-04-01,79,descontinuada
+APU0000705121,"Bologna, all beef or mixed",2015-01-01,2019-09-01,57,descontinuada
+APU0000706311,"Turkey, frozen, whole",2015-01-01,2020-02-01,62,descontinuada
+APU0000711411,Grapefruit,2015-01-01,2026-07-01,96,muitos_buracos
+APU0000711413,"Pears, Anjou",2016-06-01,2019-07-01,31,descontinuada
+APU0000711417,"Grapes, Thompson Seedless",2015-01-01,2021-09-01,77,descontinuada
+APU0000712211,"Lettuce, iceberg",2015-01-01,2026-07-01,98,muitos_buracos
+APU0000712406,"Peppers, sweet",2015-01-01,2020-03-01,58,descontinuada
+APU0000712412,Broccoli,2015-01-01,2020-03-01,63,descontinuada
+APU0000714221,"Corn, canned, any style, all sizes",2015-01-01,2026-07-01,37,muitos_buracos
+APU0000715212,"Sugar, white, 33-80 oz. pkg",2015-01-01,2022-10-01,70,descontinuada
+APU0000716116,"Margarine, soft, tubs",2015-01-01,2019-10-01,58,descontinuada
